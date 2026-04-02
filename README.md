@@ -50,7 +50,7 @@ My collection of Kaggle competitions, courses, and certificates.
 ## 📫 Connect
 
 - GitHub: [@Altynbekkk](https://github.com/Altynbekkk)
-- Kaggle: [Your Kaggle Profile]
+- Kaggle: [altynbeka](https://www.kaggle.com/altynbeka)
 
 ---
 
