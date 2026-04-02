@@ -36,7 +36,7 @@ My collection of Kaggle competitions, courses, and certificates.
 ### 4. **Titanic - Predictive Modeling**
    - **Type:** Kaggle Competition (Binary Classification)
    - **Goal:** Predict passenger survival
-   - 📂 [View Project](./titanic-altynbek.ipynb)
+   - 📂 [View Project](./projects/titanic)
 
 ---
 
