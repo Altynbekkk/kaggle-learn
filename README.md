@@ -4,6 +4,7 @@ My collection of Kaggle competitions, courses, and certificates.
 
 ## 📚 Certificates
 
+### Kaggle Learn Courses
 - 🎓 Intro to Programming
 - 🤖 Intro to Machine Learning  
 - 🤯 Intermediate Machine Learning
@@ -12,6 +13,12 @@ My collection of Kaggle competitions, courses, and certificates.
 - 🧠 Intro to Deep Learning
 - 🎨 Computer Vision
 - ⚙️ Feature Engineering
+
+### NVIDIA Certifications
+- 🔧 CUDA C++ Programming
+- 🐍 CUDA Python Programming
+
+📂 [View Certificates](./certificates)
 
 ## 📁 Projects
 
